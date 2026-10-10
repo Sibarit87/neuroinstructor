@@ -1,0 +1,9 @@
+# Это витрина, не рабочая копия продукта.
+*
+!README.md
+!logo.png
+!.gitignore
+!screenshots/
+!screenshots/*.jpg
+!screenshots/*.png
+!screenshots/*.webp
